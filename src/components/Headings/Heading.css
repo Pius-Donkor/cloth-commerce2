@@ -1,0 +1,16 @@
+.heading {
+  width: 100%;
+  height: 35vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-direction: column;
+  margin-top: 5.5rem;
+  background-size: cover;
+  background-position: center;
+}
+
+.heading > :nth-child(1) {
+  font-size: 3rem;
+}

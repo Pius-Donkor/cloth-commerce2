@@ -1,0 +1,25 @@
+.shop {
+  width: 100%;
+  background-color: #420b5a2d;
+}
+.shopProducts {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+
+.shopNext {
+  margin-top: 2rem;
+}
+.shopNext > button {
+  background-color: rgb(14, 121, 71);
+  font-size: 1rem;
+  font-weight: 800;
+  padding: 1rem;
+  color: whitesmoke;
+  border-radius: 5px;
+  border: none;
+  margin: 0.5rem;
+}
